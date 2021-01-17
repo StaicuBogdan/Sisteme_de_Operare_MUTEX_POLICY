@@ -1,0 +1,11 @@
+ZeroMQ:
+http://api.zeromq.org/4-3:_start
+https://zeromq.org/get-started/?language=c&fbclid=IwAR3A5rm8QBD2u1hcLcif5eDhA-_FdOgg8TXBGeYXFvvtFoov_4THd770VjI
+
+Daemon:
+https://nullraum.net/how-to-create-a-daemon-in-c/
+http://www.enderunix.org/docs/eng/daemon.php
+https://askubuntu.com/questions/26237/difference-between-var-log-messages-var-log-syslog-and-var-log-kern-log
+https://www.plesk.com/blog/featured/linux-logs-explained/
+https://github.com/pasce/daemon-skeleton-linux-c
+http://www.netzmafia.de/skripten/unix/linux-daemon-howto.html
